@@ -11,4 +11,4 @@ Requirements:
   -  The enemy blocks should fall faster with an increasing score.
   -  There should be enemy and player collision detection enabled, at which moment the scoring and the game stops.
 
-![game_screen](https://github.com/marc88/badly_coded_game/screen1.png)
+![game_screen](https://github.com/marc88/badly_coded_game/blob/main/screen1.png)
